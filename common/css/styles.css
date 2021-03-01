@@ -83,7 +83,7 @@ a:hover, a:visited {   color: #03c; }
 
 .header-graphic {
 	position: relative;
-	background: #203a61; /* Default: dark blue */
+	background: #18181b; /* Default: dark blue */
 	margin: 20px 0 20px;
 	-webkit-border-radius: 6px;
 	-moz-border-radius: 6px;
@@ -92,8 +92,8 @@ a:hover, a:visited {   color: #03c; }
 	width: 100%;
 	}
 
-.centos-banner {
-  background: #203a61 url(../images/centos-header.png) no-repeat left top;
+.rocky-banner {
+  background: #18181b url(../images/rocky-header.png) no-repeat left top;
   }
 
 .v3-banner .banner-title,
